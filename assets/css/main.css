@@ -2377,6 +2377,13 @@
 		padding: 0;
 		width: 100%;
 	}
+		i {
+		width: 200px;
+		font-size: 100px;
+		padding: 25px 50px 25px 50px;
+		margin: 0 25px 0 25px;
+		color: rgba(255, 255, 255, 0.5);
+		}
 
 		.features li {
 			padding: 4em 4em 2em 6em ;
